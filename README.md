@@ -9,8 +9,6 @@
 
 ## 🚀 About Me
 - Passionate about Networking & Security
-- Exploring Linux and System Administration
-- Learning Ethical Hacking & Cyber Security
 - Improving problem-solving and IT skills daily
 
   
