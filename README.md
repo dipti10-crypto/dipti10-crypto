@@ -1,4 +1,4 @@
-# Hi there 👋
+
 
 # Hi there 👋 I'm Dipti
 
@@ -7,6 +7,13 @@
 🌐 Learning CCNA & MikroTik  
 🔐 Interested in Cyber Security & Networking
 
+## 🚀 About Me
+- Passionate about Networking & Security
+- Exploring Linux and System Administration
+- Learning Ethical Hacking & Cyber Security
+- Improving problem-solving and IT skills daily
+
+  
 ## Skills
 - Networking
 - Cisco CCNA
