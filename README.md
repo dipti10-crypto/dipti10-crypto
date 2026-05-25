@@ -1,12 +1,11 @@
 # Hi there 👋
 
-I'm Dipti Rani Shaha Puja,CSE Graduate pursuing MSc in IT.
+# Hi there 👋 I'm Dipti
 
-## About Me
-- 🔐 Interested in Cyber Security
-- 🌐 Learning CCNA & MikroTik
-- 💻 Exploring Networking & Linux
-- 🚀 Improving my IT & Security skills
+🎓 CSE Graduate  
+📚 Pursuing MSc in IT  
+🌐 Learning CCNA & MikroTik  
+🔐 Interested in Cyber Security & Networking
 
 ## Skills
 - Networking
