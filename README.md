@@ -14,13 +14,13 @@
 - Improving problem-solving and IT skills daily
 
   
-## Skills
+## 🛠️Skills
 - Networking
 - Cisco CCNA
 - MikroTik
   
 
-## Currently Learning
+## 📖Currently Learning
 - Network Security
 - Python
 - Cryptograpty
@@ -28,5 +28,10 @@
 - SAQ
 - MIS
 
-## Contact
+## 🎯 Goals
+- Become a Cyber Security Specialist
+- Build practical security projects
+  
+  
+##  📫Contact
 - LinkedIn: https://www.linkedin.com/in/dipti-shaha
