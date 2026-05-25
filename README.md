@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dipti10-crypto/dipti10-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dipti Rani Shaha Puja,CSE Graduate pursuing MSc in IT.
 
-Here are some ideas to get you started:
+## About Me
+- 🔐 Interested in Cyber Security
+- 🌐 Learning CCNA & MikroTik
+- 💻 Exploring Networking & Linux
+- 🚀 Improving my IT & Security skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Networking
+- Cisco CCNA
+- MikroTik
+  
+
+## Currently Learning
+- Network Security
+- Python
+- Cryptograpty
+- Data mining
+- SAQ
+- MIS
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/dipti-shaha
